@@ -1,0 +1,27 @@
+{
+  "inside_old_tagged_buildings": 698,
+  "old_buildings_missing_in_fresh_OSM": [],
+  "new_ways_count": 90,
+  "recovered_building_relations_count": 2,
+  "total_additions": 92,
+  "main_gatehouse_relation": "7923541",
+  "main_gatehouse_lonlat": [
+    73.4842602,
+    54.99891535
+  ],
+  "main_gatehouse_footprint_m2": 577,
+  "main_gatehouse_dimensions_m": [
+    44,
+    13
+  ],
+  "main_gatehouse_photo_storeys": 2,
+  "main_gatehouse_estimated_height_m": 7,
+  "source_geometry": "OSM relation 7923541 (last edit 2018-01-22); no footprint tracing required",
+  "entrance_verification": "Yandex business 236171157070 explicit entrance: 73.48455069, 54.99888544",
+  "satellite_capture_date": "2026-04-13",
+  "satellite_provider": "Esri World Imagery / Vantor",
+  "satellite_resolution_m": 0.34,
+  "satellite_mosaic_release": "Raster Basemaps 2026.R09",
+  "coverage_limit": "Existing model boundary unchanged; download bbox: 73.465,54.991,73.521,55.008",
+  "comparison_result": "No old model building footprints within boundary disappeared from fresh OSM extract. Two changed old ways are outside boundary."
+}

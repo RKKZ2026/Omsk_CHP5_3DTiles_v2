@@ -1,0 +1,3323 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.520084,
+              55.0023305
+            ],
+            [
+              73.5200238,
+              55.0023916
+            ],
+            [
+              73.5202088,
+              55.0024516
+            ],
+            [
+              73.5202691,
+              55.0023905
+            ],
+            [
+              73.520084,
+              55.0023305
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "509541414",
+        "timestamp": "2017-07-23T06:51:15Z",
+        "source": "https://www.openstreetmap.org/way/509541414",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.518979,
+              55.0025528
+            ],
+            [
+              73.5190733,
+              55.0025156
+            ],
+            [
+              73.5190192,
+              55.0024705
+            ],
+            [
+              73.5189249,
+              55.0025077
+            ],
+            [
+              73.518979,
+              55.0025528
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "656407524",
+        "timestamp": "2018-12-20T05:31:14Z",
+        "source": "https://www.openstreetmap.org/way/656407524",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5187349,
+              55.0026297
+            ],
+            [
+              73.5188035,
+              55.0026026
+            ],
+            [
+              73.5187308,
+              55.002542
+            ],
+            [
+              73.5186622,
+              55.0025691
+            ],
+            [
+              73.5187349,
+              55.0026297
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "656407525",
+        "timestamp": "2018-12-20T05:31:14Z",
+        "source": "https://www.openstreetmap.org/way/656407525",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.518468,
+              55.0027458
+            ],
+            [
+              73.5185747,
+              55.0027037
+            ],
+            [
+              73.5184988,
+              55.0026404
+            ],
+            [
+              73.5183921,
+              55.0026825
+            ],
+            [
+              73.518468,
+              55.0027458
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "656407526",
+        "timestamp": "2018-12-20T05:31:14Z",
+        "source": "https://www.openstreetmap.org/way/656407526",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5182722,
+              55.0028304
+            ],
+            [
+              73.5183435,
+              55.0028023
+            ],
+            [
+              73.5182749,
+              55.002745
+            ],
+            [
+              73.5182035,
+              55.0027732
+            ],
+            [
+              73.5182722,
+              55.0028304
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "656407527",
+        "timestamp": "2018-12-20T05:31:14Z",
+        "source": "https://www.openstreetmap.org/way/656407527",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5196386,
+              55.0061432
+            ],
+            [
+              73.5196791,
+              55.0061774
+            ],
+            [
+              73.5197354,
+              55.0061555
+            ],
+            [
+              73.5196945,
+              55.0061213
+            ],
+            [
+              73.5196386,
+              55.0061432
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993800",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993800",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5199242,
+              55.0051561
+            ],
+            [
+              73.5199647,
+              55.0051903
+            ],
+            [
+              73.520021,
+              55.0051684
+            ],
+            [
+              73.5199801,
+              55.0051342
+            ],
+            [
+              73.5199242,
+              55.0051561
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993806",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993806",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5200045,
+              55.0055497
+            ],
+            [
+              73.5200451,
+              55.0055839
+            ],
+            [
+              73.5201013,
+              55.005562
+            ],
+            [
+              73.5200605,
+              55.0055278
+            ],
+            [
+              73.5200045,
+              55.0055497
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993807",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993807",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5195923,
+              55.0053133
+            ],
+            [
+              73.5196329,
+              55.0053475
+            ],
+            [
+              73.5196891,
+              55.0053256
+            ],
+            [
+              73.5196483,
+              55.0052914
+            ],
+            [
+              73.5195923,
+              55.0053133
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993808",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993808",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5194048,
+              55.0053701
+            ],
+            [
+              73.5194453,
+              55.0054043
+            ],
+            [
+              73.5195016,
+              55.0053823
+            ],
+            [
+              73.5194607,
+              55.0053481
+            ],
+            [
+              73.5194048,
+              55.0053701
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993809",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993809",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.519749,
+              55.0056384
+            ],
+            [
+              73.5197895,
+              55.0056726
+            ],
+            [
+              73.5198458,
+              55.0056507
+            ],
+            [
+              73.5198049,
+              55.0056164
+            ],
+            [
+              73.519749,
+              55.0056384
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993810",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993810",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5194604,
+              55.0057471
+            ],
+            [
+              73.519501,
+              55.0057813
+            ],
+            [
+              73.5195572,
+              55.0057594
+            ],
+            [
+              73.5195164,
+              55.0057252
+            ],
+            [
+              73.5194604,
+              55.0057471
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993811",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993811",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5191389,
+              55.0054646
+            ],
+            [
+              73.5191794,
+              55.0054988
+            ],
+            [
+              73.5192357,
+              55.0054769
+            ],
+            [
+              73.5191949,
+              55.0054427
+            ],
+            [
+              73.5191389,
+              55.0054646
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993812",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993812",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5191945,
+              55.00585
+            ],
+            [
+              73.5192351,
+              55.0058842
+            ],
+            [
+              73.5192913,
+              55.0058622
+            ],
+            [
+              73.5192505,
+              55.005828
+            ],
+            [
+              73.5191945,
+              55.00585
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993813",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993813",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5190008,
+              55.0059256
+            ],
+            [
+              73.5190413,
+              55.0059598
+            ],
+            [
+              73.5190976,
+              55.0059379
+            ],
+            [
+              73.5190568,
+              55.0059037
+            ],
+            [
+              73.5190008,
+              55.0059256
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993814",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993814",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5185886,
+              55.005688
+            ],
+            [
+              73.5186291,
+              55.0057222
+            ],
+            [
+              73.5186854,
+              55.0057003
+            ],
+            [
+              73.5186445,
+              55.0056661
+            ],
+            [
+              73.5185886,
+              55.005688
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993815",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993815",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5189678,
+              55.0055415
+            ],
+            [
+              73.5190084,
+              55.0055757
+            ],
+            [
+              73.5190646,
+              55.0055537
+            ],
+            [
+              73.5190238,
+              55.0055195
+            ],
+            [
+              73.5189678,
+              55.0055415
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993816",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993816",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5183495,
+              55.0057814
+            ],
+            [
+              73.51839,
+              55.0058156
+            ],
+            [
+              73.5184463,
+              55.0057937
+            ],
+            [
+              73.5184054,
+              55.0057595
+            ],
+            [
+              73.5183495,
+              55.0057814
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993817",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993817",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5187102,
+              55.0060415
+            ],
+            [
+              73.5187507,
+              55.0060757
+            ],
+            [
+              73.518807,
+              55.0060537
+            ],
+            [
+              73.5187661,
+              55.0060195
+            ],
+            [
+              73.5187102,
+              55.0060415
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993818",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993818",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5180753,
+              55.0058854
+            ],
+            [
+              73.5181159,
+              55.0059196
+            ],
+            [
+              73.5181721,
+              55.0058977
+            ],
+            [
+              73.5181313,
+              55.0058635
+            ],
+            [
+              73.5180753,
+              55.0058854
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993819",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993819",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5184463,
+              55.0061431
+            ],
+            [
+              73.5184869,
+              55.0061773
+            ],
+            [
+              73.5185431,
+              55.0061554
+            ],
+            [
+              73.5185023,
+              55.0061212
+            ],
+            [
+              73.5184463,
+              55.0061431
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993820",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993820",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.518174,
+              55.0056649
+            ],
+            [
+              73.5182146,
+              55.0056991
+            ],
+            [
+              73.5182708,
+              55.0056772
+            ],
+            [
+              73.51823,
+              55.0056429
+            ],
+            [
+              73.518174,
+              55.0056649
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993822",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993822",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5184729,
+              55.0055373
+            ],
+            [
+              73.5185134,
+              55.0055714
+            ],
+            [
+              73.5185697,
+              55.0055495
+            ],
+            [
+              73.5185289,
+              55.0055153
+            ],
+            [
+              73.5184729,
+              55.0055373
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993823",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993823",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5181225,
+              55.0052417
+            ],
+            [
+              73.5181631,
+              55.0052759
+            ],
+            [
+              73.5182193,
+              55.005254
+            ],
+            [
+              73.5181785,
+              55.0052198
+            ],
+            [
+              73.5181225,
+              55.0052417
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993824",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993824",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5187202,
+              55.0054179
+            ],
+            [
+              73.5187608,
+              55.0054521
+            ],
+            [
+              73.518817,
+              55.0054301
+            ],
+            [
+              73.5187762,
+              55.0053959
+            ],
+            [
+              73.5187202,
+              55.0054179
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993827",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993827",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5189243,
+              55.0053351
+            ],
+            [
+              73.5189648,
+              55.0053693
+            ],
+            [
+              73.5190211,
+              55.0053474
+            ],
+            [
+              73.5189802,
+              55.0053132
+            ],
+            [
+              73.5189243,
+              55.0053351
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993828",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993828",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5192149,
+              55.0052477
+            ],
+            [
+              73.5192554,
+              55.0052818
+            ],
+            [
+              73.5193117,
+              55.0052599
+            ],
+            [
+              73.5192709,
+              55.0052257
+            ],
+            [
+              73.5192149,
+              55.0052477
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993829",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993829",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5194684,
+              55.0051436
+            ],
+            [
+              73.519509,
+              55.0051778
+            ],
+            [
+              73.5195652,
+              55.0051559
+            ],
+            [
+              73.5195244,
+              55.0051217
+            ],
+            [
+              73.5194684,
+              55.0051436
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993830",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993830",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5188686,
+              55.0049722
+            ],
+            [
+              73.5189092,
+              55.0050064
+            ],
+            [
+              73.5189654,
+              55.0049845
+            ],
+            [
+              73.5189246,
+              55.0049503
+            ],
+            [
+              73.5188686,
+              55.0049722
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993831",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993831",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5185821,
+              55.0050632
+            ],
+            [
+              73.5186227,
+              55.0050974
+            ],
+            [
+              73.5186789,
+              55.0050755
+            ],
+            [
+              73.5186381,
+              55.0050413
+            ],
+            [
+              73.5185821,
+              55.0050632
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993832",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993832",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5183616,
+              55.0051436
+            ],
+            [
+              73.5184021,
+              55.0051778
+            ],
+            [
+              73.5184584,
+              55.0051559
+            ],
+            [
+              73.5184176,
+              55.0051217
+            ],
+            [
+              73.5183616,
+              55.0051436
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993833",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993833",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5192479,
+              55.0049852
+            ],
+            [
+              73.5192884,
+              55.0050194
+            ],
+            [
+              73.5193447,
+              55.0049975
+            ],
+            [
+              73.5193038,
+              55.0049633
+            ],
+            [
+              73.5192479,
+              55.0049852
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993834",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993834",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5194334,
+              55.0047335
+            ],
+            [
+              73.5194739,
+              55.0047677
+            ],
+            [
+              73.5195302,
+              55.0047457
+            ],
+            [
+              73.5194893,
+              55.0047115
+            ],
+            [
+              73.5194334,
+              55.0047335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993835",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993835",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5197734,
+              55.0050148
+            ],
+            [
+              73.519814,
+              55.005049
+            ],
+            [
+              73.5198702,
+              55.005027
+            ],
+            [
+              73.5198294,
+              55.0049928
+            ],
+            [
+              73.5197734,
+              55.0050148
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993836",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993836",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5200105,
+              55.0049179
+            ],
+            [
+              73.520051,
+              55.0049521
+            ],
+            [
+              73.5201073,
+              55.0049301
+            ],
+            [
+              73.5200664,
+              55.0048959
+            ],
+            [
+              73.5200105,
+              55.0049179
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993837",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993837",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5197116,
+              55.0046472
+            ],
+            [
+              73.5197522,
+              55.0046814
+            ],
+            [
+              73.5198084,
+              55.0046594
+            ],
+            [
+              73.5197676,
+              55.0046252
+            ],
+            [
+              73.5197116,
+              55.0046472
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993838",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993838",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5198806,
+              55.0045431
+            ],
+            [
+              73.5199212,
+              55.0045773
+            ],
+            [
+              73.5199774,
+              55.0045554
+            ],
+            [
+              73.5199366,
+              55.0045212
+            ],
+            [
+              73.5198806,
+              55.0045431
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993840",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993840",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.52008,
+              55.0043192
+            ],
+            [
+              73.5201206,
+              55.0043534
+            ],
+            [
+              73.5201768,
+              55.0043315
+            ],
+            [
+              73.520136,
+              55.0042973
+            ],
+            [
+              73.52008,
+              55.0043192
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993886",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993886",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5197406,
+              55.0040129
+            ],
+            [
+              73.5197812,
+              55.0040471
+            ],
+            [
+              73.5198374,
+              55.0040252
+            ],
+            [
+              73.5197966,
+              55.003991
+            ],
+            [
+              73.5197406,
+              55.0040129
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993889",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993889",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5200002,
+              55.0039099
+            ],
+            [
+              73.5200407,
+              55.0039441
+            ],
+            [
+              73.520097,
+              55.0039222
+            ],
+            [
+              73.5200561,
+              55.0038879
+            ],
+            [
+              73.5200002,
+              55.0039099
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993890",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993890",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.520095,
+              55.0032472
+            ],
+            [
+              73.5201356,
+              55.0032814
+            ],
+            [
+              73.5201918,
+              55.0032595
+            ],
+            [
+              73.520151,
+              55.0032252
+            ],
+            [
+              73.520095,
+              55.0032472
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993912",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993912",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.519798,
+              55.0033603
+            ],
+            [
+              73.5198386,
+              55.0033945
+            ],
+            [
+              73.5198948,
+              55.0033725
+            ],
+            [
+              73.519854,
+              55.0033383
+            ],
+            [
+              73.519798,
+              55.0033603
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993914",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993914",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5200601,
+              55.0036694
+            ],
+            [
+              73.5201006,
+              55.0037036
+            ],
+            [
+              73.5201569,
+              55.0036817
+            ],
+            [
+              73.520116,
+              55.0036475
+            ],
+            [
+              73.5200601,
+              55.0036694
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993915",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993915",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.519808,
+              55.0037711
+            ],
+            [
+              73.5198486,
+              55.0038053
+            ],
+            [
+              73.5199048,
+              55.0037833
+            ],
+            [
+              73.519864,
+              55.0037491
+            ],
+            [
+              73.519808,
+              55.0037711
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993916",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993916",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5195609,
+              55.0034948
+            ],
+            [
+              73.5196015,
+              55.003529
+            ],
+            [
+              73.5196577,
+              55.0035071
+            ],
+            [
+              73.5196169,
+              55.0034728
+            ],
+            [
+              73.5195609,
+              55.0034948
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993917",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993917",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5196034,
+              55.003814
+            ],
+            [
+              73.5196439,
+              55.0038482
+            ],
+            [
+              73.5197002,
+              55.0038263
+            ],
+            [
+              73.5196593,
+              55.003792
+            ],
+            [
+              73.5196034,
+              55.003814
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993918",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993918",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5192639,
+              55.0035721
+            ],
+            [
+              73.5193045,
+              55.0036063
+            ],
+            [
+              73.5193608,
+              55.0035844
+            ],
+            [
+              73.5193199,
+              55.0035501
+            ],
+            [
+              73.5192639,
+              55.0035721
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993919",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993919",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5200551,
+              55.0030454
+            ],
+            [
+              73.5200956,
+              55.0030796
+            ],
+            [
+              73.5201519,
+              55.0030576
+            ],
+            [
+              73.520111,
+              55.0030234
+            ],
+            [
+              73.5200551,
+              55.0030454
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993922",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993922",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5197681,
+              55.0027748
+            ],
+            [
+              73.5198086,
+              55.002809
+            ],
+            [
+              73.5198649,
+              55.0027871
+            ],
+            [
+              73.519824,
+              55.0027529
+            ],
+            [
+              73.5197681,
+              55.0027748
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993923",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993923",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5200101,
+              55.0026661
+            ],
+            [
+              73.5200507,
+              55.0027003
+            ],
+            [
+              73.520107,
+              55.0026783
+            ],
+            [
+              73.5200661,
+              55.0026441
+            ],
+            [
+              73.5200101,
+              55.0026661
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993924",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993924",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.519506,
+              55.0029037
+            ],
+            [
+              73.5195466,
+              55.0029379
+            ],
+            [
+              73.5196028,
+              55.0029159
+            ],
+            [
+              73.519562,
+              55.0028817
+            ],
+            [
+              73.519506,
+              55.0029037
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993925",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993925",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5197955,
+              55.0031355
+            ],
+            [
+              73.5198361,
+              55.0031697
+            ],
+            [
+              73.5198923,
+              55.0031478
+            ],
+            [
+              73.5198515,
+              55.0031136
+            ],
+            [
+              73.5197955,
+              55.0031355
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993926",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993926",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5195734,
+              55.0032529
+            ],
+            [
+              73.519614,
+              55.0032871
+            ],
+            [
+              73.5196702,
+              55.0032652
+            ],
+            [
+              73.5196294,
+              55.0032309
+            ],
+            [
+              73.5195734,
+              55.0032529
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993927",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993927",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5192864,
+              55.0033445
+            ],
+            [
+              73.519327,
+              55.0033787
+            ],
+            [
+              73.5193832,
+              55.0033568
+            ],
+            [
+              73.5193424,
+              55.0033226
+            ],
+            [
+              73.5192864,
+              55.0033445
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993928",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993928",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.519229,
+              55.0029881
+            ],
+            [
+              73.5192696,
+              55.0030223
+            ],
+            [
+              73.5193258,
+              55.0030004
+            ],
+            [
+              73.519285,
+              55.0029661
+            ],
+            [
+              73.519229,
+              55.0029881
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993929",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993929",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5189844,
+              55.0031112
+            ],
+            [
+              73.519025,
+              55.0031454
+            ],
+            [
+              73.5190812,
+              55.0031235
+            ],
+            [
+              73.5190404,
+              55.0030892
+            ],
+            [
+              73.5189844,
+              55.0031112
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993930",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993930",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.51867,
+              55.0031985
+            ],
+            [
+              73.5187105,
+              55.0032327
+            ],
+            [
+              73.5187668,
+              55.0032108
+            ],
+            [
+              73.518726,
+              55.0031766
+            ],
+            [
+              73.51867,
+              55.0031985
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993931",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993931",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5190219,
+              55.0034605
+            ],
+            [
+              73.5190624,
+              55.0034947
+            ],
+            [
+              73.5191187,
+              55.0034727
+            ],
+            [
+              73.5190778,
+              55.0034385
+            ],
+            [
+              73.5190219,
+              55.0034605
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993932",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993932",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5187673,
+              55.0035478
+            ],
+            [
+              73.5188079,
+              55.003582
+            ],
+            [
+              73.5188641,
+              55.00356
+            ],
+            [
+              73.5188233,
+              55.0035258
+            ],
+            [
+              73.5187673,
+              55.0035478
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993933",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993933",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5185053,
+              55.0034361
+            ],
+            [
+              73.5185458,
+              55.0034703
+            ],
+            [
+              73.5186021,
+              55.0034484
+            ],
+            [
+              73.5185612,
+              55.0034142
+            ],
+            [
+              73.5185053,
+              55.0034361
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993934",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993934",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5181708,
+              55.0034175
+            ],
+            [
+              73.5182114,
+              55.0034517
+            ],
+            [
+              73.5182677,
+              55.0034298
+            ],
+            [
+              73.5182268,
+              55.0033955
+            ],
+            [
+              73.5181708,
+              55.0034175
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993935",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993935",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5182257,
+              55.0037553
+            ],
+            [
+              73.5182663,
+              55.0037895
+            ],
+            [
+              73.5183226,
+              55.0037676
+            ],
+            [
+              73.5182817,
+              55.0037333
+            ],
+            [
+              73.5182257,
+              55.0037553
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993937",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993937",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5189457,
+              55.0037058
+            ],
+            [
+              73.5189863,
+              55.00374
+            ],
+            [
+              73.5190425,
+              55.003718
+            ],
+            [
+              73.5190017,
+              55.0036838
+            ],
+            [
+              73.5189457,
+              55.0037058
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993952",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993952",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5186941,
+              55.0037945
+            ],
+            [
+              73.5187346,
+              55.0038287
+            ],
+            [
+              73.5187909,
+              55.0038067
+            ],
+            [
+              73.51875,
+              55.0037725
+            ],
+            [
+              73.5186941,
+              55.0037945
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993953",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993953",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.518396,
+              55.0039009
+            ],
+            [
+              73.5184366,
+              55.0039351
+            ],
+            [
+              73.5184928,
+              55.0039132
+            ],
+            [
+              73.518452,
+              55.0038789
+            ],
+            [
+              73.518396,
+              55.0039009
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993954",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993954",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5180994,
+              55.004021
+            ],
+            [
+              73.51814,
+              55.0040552
+            ],
+            [
+              73.5181962,
+              55.0040333
+            ],
+            [
+              73.5181554,
+              55.0039991
+            ],
+            [
+              73.5180994,
+              55.004021
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993955",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993955",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5182115,
+              55.0043846
+            ],
+            [
+              73.5182521,
+              55.0044188
+            ],
+            [
+              73.5183083,
+              55.0043969
+            ],
+            [
+              73.5182675,
+              55.0043626
+            ],
+            [
+              73.5182115,
+              55.0043846
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993957",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993957",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5187373,
+              55.0041818
+            ],
+            [
+              73.5187779,
+              55.004216
+            ],
+            [
+              73.5188341,
+              55.0041941
+            ],
+            [
+              73.5187933,
+              55.0041599
+            ],
+            [
+              73.5187373,
+              55.0041818
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993958",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993958",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5185258,
+              55.004272
+            ],
+            [
+              73.5185663,
+              55.0043061
+            ],
+            [
+              73.5186226,
+              55.0042842
+            ],
+            [
+              73.5185817,
+              55.00425
+            ],
+            [
+              73.5185258,
+              55.004272
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993959",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993959",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5190727,
+              55.0040571
+            ],
+            [
+              73.5191133,
+              55.0040912
+            ],
+            [
+              73.5191695,
+              55.0040693
+            ],
+            [
+              73.5191287,
+              55.0040351
+            ],
+            [
+              73.5190727,
+              55.0040571
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993960",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993960",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5192691,
+              55.0039704
+            ],
+            [
+              73.5193097,
+              55.0040046
+            ],
+            [
+              73.5193659,
+              55.0039827
+            ],
+            [
+              73.5193251,
+              55.0039484
+            ],
+            [
+              73.5192691,
+              55.0039704
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993961",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993961",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5181222,
+              55.0046463
+            ],
+            [
+              73.5181628,
+              55.0046805
+            ],
+            [
+              73.518219,
+              55.0046586
+            ],
+            [
+              73.5181782,
+              55.0046244
+            ],
+            [
+              73.5181222,
+              55.0046463
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993976",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993976",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5184829,
+              55.0046298
+            ],
+            [
+              73.5185235,
+              55.004664
+            ],
+            [
+              73.5185797,
+              55.004642
+            ],
+            [
+              73.5185389,
+              55.0046078
+            ],
+            [
+              73.5184829,
+              55.0046298
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993977",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993977",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5186416,
+              55.0044489
+            ],
+            [
+              73.5186822,
+              55.0044831
+            ],
+            [
+              73.5187384,
+              55.0044612
+            ],
+            [
+              73.5186976,
+              55.0044269
+            ],
+            [
+              73.5186416,
+              55.0044489
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993978",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993978",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5189817,
+              55.004709
+            ],
+            [
+              73.5190223,
+              55.0047432
+            ],
+            [
+              73.5190785,
+              55.0047212
+            ],
+            [
+              73.5190377,
+              55.004687
+            ],
+            [
+              73.5189817,
+              55.004709
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993979",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993979",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5187364,
+              55.0048024
+            ],
+            [
+              73.518777,
+              55.0048365
+            ],
+            [
+              73.5188332,
+              55.0048146
+            ],
+            [
+              73.5187924,
+              55.0047804
+            ],
+            [
+              73.5187364,
+              55.0048024
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993980",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993980",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5184376,
+              55.00493
+            ],
+            [
+              73.5184781,
+              55.0049642
+            ],
+            [
+              73.5185344,
+              55.0049423
+            ],
+            [
+              73.5184936,
+              55.004908
+            ],
+            [
+              73.5184376,
+              55.00493
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993981",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993981",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5181511,
+              55.0050128
+            ],
+            [
+              73.5181916,
+              55.005047
+            ],
+            [
+              73.5182479,
+              55.005025
+            ],
+            [
+              73.5182071,
+              55.0049908
+            ],
+            [
+              73.5181511,
+              55.0050128
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993982",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993982",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5192703,
+              55.0046026
+            ],
+            [
+              73.5193108,
+              55.0046368
+            ],
+            [
+              73.5193671,
+              55.0046148
+            ],
+            [
+              73.5193262,
+              55.0045806
+            ],
+            [
+              73.5192703,
+              55.0046026
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993986",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993986",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5195341,
+              55.0044986
+            ],
+            [
+              73.5195747,
+              55.0045328
+            ],
+            [
+              73.5196309,
+              55.0045108
+            ],
+            [
+              73.5195901,
+              55.0044766
+            ],
+            [
+              73.5195341,
+              55.0044986
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993987",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993987",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5197958,
+              55.0043886
+            ],
+            [
+              73.5198364,
+              55.0044228
+            ],
+            [
+              73.5198927,
+              55.0044009
+            ],
+            [
+              73.5198518,
+              55.0043667
+            ],
+            [
+              73.5197958,
+              55.0043886
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993988",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993988",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5192249,
+              55.0042172
+            ],
+            [
+              73.5192655,
+              55.0042514
+            ],
+            [
+              73.5193217,
+              55.0042295
+            ],
+            [
+              73.5192809,
+              55.0041953
+            ],
+            [
+              73.5192249,
+              55.0042172
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993989",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993989",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5189013,
+              55.0043283
+            ],
+            [
+              73.5189419,
+              55.0043625
+            ],
+            [
+              73.5189981,
+              55.0043406
+            ],
+            [
+              73.5189573,
+              55.0043064
+            ],
+            [
+              73.5189013,
+              55.0043283
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993990",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993990",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5194393,
+              55.0041191
+            ],
+            [
+              73.5194798,
+              55.0041533
+            ],
+            [
+              73.5195361,
+              55.0041314
+            ],
+            [
+              73.5194953,
+              55.0040971
+            ],
+            [
+              73.5194393,
+              55.0041191
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1298993991",
+        "timestamp": "2024-07-04T10:49:59Z",
+        "source": "https://www.openstreetmap.org/way/1298993991",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5193042,
+              55.0027366
+            ],
+            [
+              73.5193437,
+              55.0027713
+            ],
+            [
+              73.5194007,
+              55.0027499
+            ],
+            [
+              73.5193609,
+              55.0027153
+            ],
+            [
+              73.5193042,
+              55.0027366
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1300157974",
+        "timestamp": "2024-07-09T05:51:17Z",
+        "source": "https://www.openstreetmap.org/way/1300157974",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5189942,
+              55.0028705
+            ],
+            [
+              73.5190337,
+              55.0029052
+            ],
+            [
+              73.5190907,
+              55.0028837
+            ],
+            [
+              73.5190509,
+              55.0028491
+            ],
+            [
+              73.5189942,
+              55.0028705
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1300157975",
+        "timestamp": "2024-07-09T05:51:17Z",
+        "source": "https://www.openstreetmap.org/way/1300157975",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.518798,
+              55.0029318
+            ],
+            [
+              73.5188375,
+              55.0029664
+            ],
+            [
+              73.5188945,
+              55.002945
+            ],
+            [
+              73.5188547,
+              55.0029104
+            ],
+            [
+              73.518798,
+              55.0029318
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1300157976",
+        "timestamp": "2024-07-09T05:51:17Z",
+        "source": "https://www.openstreetmap.org/way/1300157976",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.518553,
+              55.0030203
+            ],
+            [
+              73.5185925,
+              55.003055
+            ],
+            [
+              73.5186495,
+              55.0030336
+            ],
+            [
+              73.5186097,
+              55.0029989
+            ],
+            [
+              73.518553,
+              55.0030203
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1300157977",
+        "timestamp": "2024-07-09T05:51:17Z",
+        "source": "https://www.openstreetmap.org/way/1300157977",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.5182117,
+              55.0030004
+            ],
+            [
+              73.5182512,
+              55.003035
+            ],
+            [
+              73.5183082,
+              55.0030136
+            ],
+            [
+              73.5182683,
+              55.002979
+            ],
+            [
+              73.5182117,
+              55.0030004
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1300157979",
+        "timestamp": "2024-07-09T05:51:17Z",
+        "source": "https://www.openstreetmap.org/way/1300157979",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.4660735,
+              55.0032785
+            ],
+            [
+              73.4661433,
+              55.0032955
+            ],
+            [
+              73.4661833,
+              55.0032413
+            ],
+            [
+              73.4661135,
+              55.0032243
+            ],
+            [
+              73.4660735,
+              55.0032785
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "1565595377",
+        "timestamp": "2026-10-06T18:00:45Z",
+        "source": "https://www.openstreetmap.org/way/1565595377",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.4839436,
+              54.9988188
+            ],
+            [
+              73.4839032,
+              54.998935
+            ],
+            [
+              73.4845768,
+              54.9990119
+            ],
+            [
+              73.4846172,
+              54.9988957
+            ],
+            [
+              73.4839436,
+              54.9988188
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "relation_7923541",
+        "timestamp": "2018-01-22T06:10:06Z",
+        "source": "https://www.openstreetmap.org/relation/7923541",
+        "addr:housenumber": "219/2",
+        "addr:street": "улица 10 лет Октября",
+        "building": "yes",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.4783467,
+              54.9978758
+            ],
+            [
+              73.4782895,
+              54.9980353
+            ],
+            [
+              73.4787552,
+              54.9980902
+            ],
+            [
+              73.4788124,
+              54.9979307
+            ],
+            [
+              73.4783467,
+              54.9978758
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "source_id": "relation_7923543",
+        "timestamp": "2018-01-22T06:10:06Z",
+        "source": "https://www.openstreetmap.org/relation/7923543",
+        "addr:housenumber": "219/3",
+        "addr:street": "улица 10 лет Октября",
+        "building": "yes",
+        "type": "multipolygon"
+      }
+    }
+  ]
+}

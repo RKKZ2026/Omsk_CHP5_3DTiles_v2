@@ -1,0 +1,3072 @@
+[
+  {
+    "id": "58784719",
+    "title": "Башенная градирня",
+    "kind": "cooling_tower",
+    "source": "OSM footprint; west heights=OSM 50 m; east approximate 75 m per contractor",
+    "lonlat": [
+      73.48180307944142,
+      54.998829189988776
+    ]
+  },
+  {
+    "id": "58784720",
+    "title": "Главный котлотурбинный корпус",
+    "kind": "main_hall",
+    "source": "OSM footprint + Russos 2017 + user reference",
+    "lonlat": [
+      73.48761788079962,
+      55.00090939155257
+    ]
+  },
+  {
+    "id": "58784763",
+    "title": "Башенная градирня",
+    "kind": "cooling_tower",
+    "source": "OSM footprint; west heights=OSM 50 m; east approximate 75 m per contractor",
+    "lonlat": [
+      73.48042211856111,
+      54.99865568290568
+    ]
+  },
+  {
+    "id": "58784766",
+    "title": "Башенная градирня",
+    "kind": "cooling_tower",
+    "source": "OSM footprint; west heights=OSM 50 m; east approximate 75 m per contractor",
+    "lonlat": [
+      73.4813970771218,
+      54.99987282707707
+    ]
+  },
+  {
+    "id": "58784803",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48245793806633,
+      55.00116967014669
+    ]
+  },
+  {
+    "id": "59465135",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4783040472372,
+      54.997323366864926
+    ]
+  },
+  {
+    "id": "59465143",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48053375,
+      54.99626205
+    ]
+  },
+  {
+    "id": "59465144",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47926560149872,
+      54.99600948784304
+    ]
+  },
+  {
+    "id": "59465146",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4788869407005,
+      54.995103275159714
+    ]
+  },
+  {
+    "id": "60727168",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47495928884446,
+      54.995009977456746
+    ]
+  },
+  {
+    "id": "60727170",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48131289502788,
+      54.9939299033245
+    ]
+  },
+  {
+    "id": "60727171",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47873944999999,
+      54.99265725
+    ]
+  },
+  {
+    "id": "60727172",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47975628412091,
+      54.994507823705874
+    ]
+  },
+  {
+    "id": "60727173",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47941648344457,
+      54.99481221448869
+    ]
+  },
+  {
+    "id": "60727178",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48189182204612,
+      54.99532538929466
+    ]
+  },
+  {
+    "id": "60727180",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47751965,
+      54.995069150000006
+    ]
+  },
+  {
+    "id": "60727181",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4787803,
+      54.99316525
+    ]
+  },
+  {
+    "id": "60727183",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47763200506775,
+      54.99238703620947
+    ]
+  },
+  {
+    "id": "60727184",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47678149462142,
+      54.99410516984847
+    ]
+  },
+  {
+    "id": "60727185",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48075618294784,
+      54.99500729729059
+    ]
+  },
+  {
+    "id": "60727190",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47826600058569,
+      54.99519259940419
+    ]
+  },
+  {
+    "id": "60727192",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47966235,
+      54.99266925
+    ]
+  },
+  {
+    "id": "60727194",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47657604999999,
+      54.99486605
+    ]
+  },
+  {
+    "id": "60727195",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47564495454718,
+      54.99376200880773
+    ]
+  },
+  {
+    "id": "60727197",
+    "title": "Вспомогательный корпус",
+    "kind": "warehouse",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47837684999999,
+      54.99430865
+    ]
+  },
+  {
+    "id": "60727199",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47882673954493,
+      54.99253057153045
+    ]
+  },
+  {
+    "id": "60727200",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47741189999999,
+      54.993355799999996
+    ]
+  },
+  {
+    "id": "60727203",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47793830256505,
+      54.99394116719616
+    ]
+  },
+  {
+    "id": "60727205",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48186065,
+      54.99314395
+    ]
+  },
+  {
+    "id": "60727206",
+    "title": "Вспомогательный корпус",
+    "kind": "warehouse",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47907868605269,
+      54.99343353376112
+    ]
+  },
+  {
+    "id": "60727208",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47737497144018,
+      54.99382773100701
+    ]
+  },
+  {
+    "id": "60727209",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48027470000001,
+      54.9930229
+    ]
+  },
+  {
+    "id": "60727212",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48109573114884,
+      54.993466092600386
+    ]
+  },
+  {
+    "id": "60727213",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47818725651884,
+      54.995498594748405
+    ]
+  },
+  {
+    "id": "60727214",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47684578974047,
+      54.9924962397905
+    ]
+  },
+  {
+    "id": "60727216",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48004417726179,
+      54.99359091928484
+    ]
+  },
+  {
+    "id": "60727217",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47665065,
+      54.99307845
+    ]
+  },
+  {
+    "id": "60727218",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48067230000001,
+      54.99427275
+    ]
+  },
+  {
+    "id": "60727219",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47517845123771,
+      54.99453288496462
+    ]
+  },
+  {
+    "id": "60727222",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47851750951028,
+      54.99292427327634
+    ]
+  },
+  {
+    "id": "60727223",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48062027820511,
+      54.994451949864434
+    ]
+  },
+  {
+    "id": "60727224",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.478044387287,
+      54.99344868527343
+    ]
+  },
+  {
+    "id": "60727225",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48172935,
+      54.99340445
+    ]
+  },
+  {
+    "id": "60727227",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48193185000001,
+      54.994192
+    ]
+  },
+  {
+    "id": "60727230",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47827125,
+      54.992393750000005
+    ]
+  },
+  {
+    "id": "60727231",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48088814587564,
+      54.99397098638666
+    ]
+  },
+  {
+    "id": "60727232",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47452235,
+      54.9950245
+    ]
+  },
+  {
+    "id": "60727233",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47832707039922,
+      54.99489722787373
+    ]
+  },
+  {
+    "id": "60727236",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48253523189045,
+      54.99369164104554
+    ]
+  },
+  {
+    "id": "60727238",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4785381,
+      54.9935599
+    ]
+  },
+  {
+    "id": "72657210",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47535113692999,
+      55.00177822576238
+    ]
+  },
+  {
+    "id": "72657212",
+    "title": "Резервуар оборотной воды",
+    "kind": "tank",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4769648114292,
+      54.99971321590526
+    ]
+  },
+  {
+    "id": "72657213",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.477254,
+      55.00247965
+    ]
+  },
+  {
+    "id": "72657225",
+    "title": "Резервуар оборотной воды",
+    "kind": "tank",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47709469294333,
+      54.99925408316647
+    ]
+  },
+  {
+    "id": "93442848",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47432156943985,
+      55.0004932651818
+    ]
+  },
+  {
+    "id": "93442861",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47369154963971,
+      54.99767441711828
+    ]
+  },
+  {
+    "id": "93442876",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47424593434134,
+      55.001660873300274
+    ]
+  },
+  {
+    "id": "93442911",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47457627103641,
+      55.00105085184762
+    ]
+  },
+  {
+    "id": "93442921",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4837839318013,
+      54.999257899585245
+    ]
+  },
+  {
+    "id": "93442965",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47160291544344,
+      54.99706612516635
+    ]
+  },
+  {
+    "id": "93442976",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4831840103693,
+      55.00025193331386
+    ]
+  },
+  {
+    "id": "93442982",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47348487579191,
+      54.998365208644515
+    ]
+  },
+  {
+    "id": "93442985",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.477131,
+      54.99872555
+    ]
+  },
+  {
+    "id": "93442990",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4741779,
+      55.0009344
+    ]
+  },
+  {
+    "id": "93443021",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47681355,
+      54.99791225
+    ]
+  },
+  {
+    "id": "93443036",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47439511780176,
+      54.99776199636999
+    ]
+  },
+  {
+    "id": "93852072",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4812688,
+      55.00319495
+    ]
+  },
+  {
+    "id": "93852075",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49090833043613,
+      55.00259624890793
+    ]
+  },
+  {
+    "id": "93852076",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49331526908122,
+      55.00469141341124
+    ]
+  },
+  {
+    "id": "93852079",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4829742031079,
+      55.00252115925665
+    ]
+  },
+  {
+    "id": "93852081",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4786015,
+      55.003246499999996
+    ]
+  },
+  {
+    "id": "93852084",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49797854237158,
+      55.00511320922733
+    ]
+  },
+  {
+    "id": "93852088",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49663045,
+      55.0051052
+    ]
+  },
+  {
+    "id": "93852089",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49833902828624,
+      55.00101184764851
+    ]
+  },
+  {
+    "id": "93852090",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49251750574822,
+      55.00172480301725
+    ]
+  },
+  {
+    "id": "93852092",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48183674999999,
+      55.0027871
+    ]
+  },
+  {
+    "id": "93852096",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48125604497427,
+      55.003910872995306
+    ]
+  },
+  {
+    "id": "93852097",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49063605246535,
+      55.00441312343913
+    ]
+  },
+  {
+    "id": "93852099",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48165365,
+      55.00355595
+    ]
+  },
+  {
+    "id": "93852105",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49436226913268,
+      55.00463341327271
+    ]
+  },
+  {
+    "id": "93852109",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49251828706525,
+      55.00488868050001
+    ]
+  },
+  {
+    "id": "93852114",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47874732131329,
+      55.003065137390294
+    ]
+  },
+  {
+    "id": "93852121",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48155110941762,
+      55.00234953051209
+    ]
+  },
+  {
+    "id": "93852122",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49811401953205,
+      55.004407201074244
+    ]
+  },
+  {
+    "id": "93852123",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4933544478557,
+      55.00330161959341
+    ]
+  },
+  {
+    "id": "93852128",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49159394074668,
+      55.00326643620734
+    ]
+  },
+  {
+    "id": "93852133",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4792670389931,
+      55.00212273030422
+    ]
+  },
+  {
+    "id": "93852135",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49175517937779,
+      55.00269414808003
+    ]
+  },
+  {
+    "id": "93852137",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4944027,
+      55.0038304
+    ]
+  },
+  {
+    "id": "93852139",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49482150223413,
+      55.00029751826818
+    ]
+  },
+  {
+    "id": "93852144",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49532205,
+      55.003577549999996
+    ]
+  },
+  {
+    "id": "93852147",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4860864,
+      55.002246750000005
+    ]
+  },
+  {
+    "id": "93852150",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48114927729031,
+      55.002279662454505
+    ]
+  },
+  {
+    "id": "93852151",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49488725,
+      55.00498755
+    ]
+  },
+  {
+    "id": "93852154",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49424250000001,
+      55.005150900000004
+    ]
+  },
+  {
+    "id": "93852157",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49796067879163,
+      55.00461069709522
+    ]
+  },
+  {
+    "id": "93852163",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49271809999999,
+      55.0035704
+    ]
+  },
+  {
+    "id": "93852173",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49423058030749,
+      55.00294717201932
+    ]
+  },
+  {
+    "id": "93852177",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48022295,
+      55.002505049999996
+    ]
+  },
+  {
+    "id": "93852183",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49194077425786,
+      55.0044991265899
+    ]
+  },
+  {
+    "id": "93852192",
+    "title": "Башенная градирня",
+    "kind": "cooling_tower",
+    "source": "OSM footprint; west heights=OSM 50 m; east approximate 75 m per contractor",
+    "lonlat": [
+      73.49439292597086,
+      54.999720092984866
+    ]
+  },
+  {
+    "id": "93852195",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48009007970072,
+      55.00304936227783
+    ]
+  },
+  {
+    "id": "93852205",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4985435,
+      55.00544305
+    ]
+  },
+  {
+    "id": "93852206",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48202668749467,
+      55.00240901097678
+    ]
+  },
+  {
+    "id": "93852207",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48216376249908,
+      55.00401577835023
+    ]
+  },
+  {
+    "id": "93852208",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48250253060101,
+      55.0024773653715
+    ]
+  },
+  {
+    "id": "95192831",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48612998356974,
+      55.00165213845222
+    ]
+  },
+  {
+    "id": "95192892",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.50437996734696,
+      54.99936165832179
+    ]
+  },
+  {
+    "id": "95193001",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.50391579635362,
+      55.00160501988879
+    ]
+  },
+  {
+    "id": "115585092",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47960655,
+      54.995447150000004
+    ]
+  },
+  {
+    "id": "115585116",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47999326936825,
+      54.99257125382563
+    ]
+  },
+  {
+    "id": "115585128",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47992460742336,
+      54.994891151029165
+    ]
+  },
+  {
+    "id": "115585132",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4806322166837,
+      54.99286295124319
+    ]
+  },
+  {
+    "id": "115585151",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47922535000001,
+      54.99458115
+    ]
+  },
+  {
+    "id": "192864346",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47634520096739,
+      55.002782914961735
+    ]
+  },
+  {
+    "id": "192864348",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4781427,
+      55.0026587
+    ]
+  },
+  {
+    "id": "192864349",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47876720817135,
+      55.0002241777676
+    ]
+  },
+  {
+    "id": "192864350",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48023225,
+      54.99948195
+    ]
+  },
+  {
+    "id": "198407899",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47693604117076,
+      55.0011032441731
+    ]
+  },
+  {
+    "id": "198407900",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4985023,
+      55.0039571
+    ]
+  },
+  {
+    "id": "198407901",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4748124719702,
+      54.99834927073968
+    ]
+  },
+  {
+    "id": "198407902",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48305625,
+      54.99860035
+    ]
+  },
+  {
+    "id": "198407903",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47746817015437,
+      55.00042390194279
+    ]
+  },
+  {
+    "id": "198407904",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4857634,
+      55.00289305
+    ]
+  },
+  {
+    "id": "198407905",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47887197887977,
+      55.00103845146592
+    ]
+  },
+  {
+    "id": "198407906",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48725071932961,
+      54.99939543367944
+    ]
+  },
+  {
+    "id": "198407907",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49854665724702,
+      55.00453064093632
+    ]
+  },
+  {
+    "id": "198407908",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49793381878789,
+      55.0038910148393
+    ]
+  },
+  {
+    "id": "198407909",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48229862940818,
+      54.999435039358794
+    ]
+  },
+  {
+    "id": "198407910",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4834230358936,
+      55.00325602109266
+    ]
+  },
+  {
+    "id": "198407911",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48389929999999,
+      55.0036994
+    ]
+  },
+  {
+    "id": "198407913",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49747847801413,
+      55.00381344768682
+    ]
+  },
+  {
+    "id": "198407914",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48842396964368,
+      54.99476148369265
+    ]
+  },
+  {
+    "id": "198407916",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48262315476875,
+      54.999485829380255
+    ]
+  },
+  {
+    "id": "198407917",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48438855,
+      55.003771400000005
+    ]
+  },
+  {
+    "id": "198407918",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4828753,
+      55.00360585
+    ]
+  },
+  {
+    "id": "198407919",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47760797367191,
+      54.99541258131186
+    ]
+  },
+  {
+    "id": "198407920",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4777662,
+      54.9956545
+    ]
+  },
+  {
+    "id": "198407922",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48735067133994,
+      55.003069602656446
+    ]
+  },
+  {
+    "id": "198407923",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4902217,
+      54.999158699999995
+    ]
+  },
+  {
+    "id": "198407924",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47647272904302,
+      55.00136119804263
+    ]
+  },
+  {
+    "id": "198407925",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4950022,
+      55.0046049
+    ]
+  },
+  {
+    "id": "198407927",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.489879,
+      55.0033639
+    ]
+  },
+  {
+    "id": "198407928",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48372434999999,
+      55.0042105
+    ]
+  },
+  {
+    "id": "198407929",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48361371670343,
+      54.9986847201458
+    ]
+  },
+  {
+    "id": "198407930",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48305201031458,
+      54.9992271822791
+    ]
+  },
+  {
+    "id": "198407931",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4749465244655,
+      55.00060308957739
+    ]
+  },
+  {
+    "id": "198407932",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48719684999999,
+      55.0041024
+    ]
+  },
+  {
+    "id": "198407934",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48425573206332,
+      55.00266534201615
+    ]
+  },
+  {
+    "id": "238713837",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48162604999999,
+      54.995155499999996
+    ]
+  },
+  {
+    "id": "238713843",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47939145000001,
+      54.99434435
+    ]
+  },
+  {
+    "id": "238713845",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4816911,
+      54.995243
+    ]
+  },
+  {
+    "id": "238713846",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47962579216461,
+      54.99399477732701
+    ]
+  },
+  {
+    "id": "238713850",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4822274812935,
+      54.99563999867399
+    ]
+  },
+  {
+    "id": "238713852",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47970858333333,
+      54.9952817
+    ]
+  },
+  {
+    "id": "238713856",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4801111197825,
+      54.9949455519892
+    ]
+  },
+  {
+    "id": "238713859",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48233188265179,
+      54.99326004009103
+    ]
+  },
+  {
+    "id": "241069266",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47736072993732,
+      54.99264512308739
+    ]
+  },
+  {
+    "id": "258999036",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48814712171531,
+      54.99470631700728
+    ]
+  },
+  {
+    "id": "265732478",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48032005,
+      55.0034599
+    ]
+  },
+  {
+    "id": "336825688",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49304910000001,
+      55.002688600000006
+    ]
+  },
+  {
+    "id": "336825689",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49364895921538,
+      55.00272697603964
+    ]
+  },
+  {
+    "id": "336825691",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49771865,
+      55.00489915
+    ]
+  },
+  {
+    "id": "336825692",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49295079999999,
+      55.002827599999996
+    ]
+  },
+  {
+    "id": "336825693",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49307574226168,
+      55.00289897105006
+    ]
+  },
+  {
+    "id": "336825694",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4943593,
+      55.00396975
+    ]
+  },
+  {
+    "id": "336825696",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49383955,
+      55.002751950000004
+    ]
+  },
+  {
+    "id": "336825697",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49424079803042,
+      55.00524730198199
+    ]
+  },
+  {
+    "id": "341722720",
+    "title": "Вспомогательный корпус",
+    "kind": "warehouse",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47759679103116,
+      54.996900671549916
+    ]
+  },
+  {
+    "id": "341722725",
+    "title": "Вспомогательный корпус",
+    "kind": "warehouse",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47726091796399,
+      54.99687456751748
+    ]
+  },
+  {
+    "id": "341722727",
+    "title": "Вспомогательный корпус",
+    "kind": "warehouse",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47732632052947,
+      54.99721161939354
+    ]
+  },
+  {
+    "id": "341722731",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48105621285555,
+      54.99565354855997
+    ]
+  },
+  {
+    "id": "341722732",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48202875,
+      54.99575035
+    ]
+  },
+  {
+    "id": "341722733",
+    "title": "Вспомогательный корпус",
+    "kind": "warehouse",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47748914170481,
+      54.99667652871003
+    ]
+  },
+  {
+    "id": "341722735",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48111041771142,
+      54.995889909262004
+    ]
+  },
+  {
+    "id": "374514108",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48035899999999,
+      54.9928631
+    ]
+  },
+  {
+    "id": "374514109",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4809434,
+      54.99290075
+    ]
+  },
+  {
+    "id": "374514110",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48060852075041,
+      54.99295568092855
+    ]
+  },
+  {
+    "id": "379866003",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4758628,
+      54.99322925
+    ]
+  },
+  {
+    "id": "502029173",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.4751838265418,
+      55.00196665182532
+    ]
+  },
+  {
+    "id": "502029174",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47513221403572,
+      55.00211204026365
+    ]
+  },
+  {
+    "id": "554784898",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49268522051042,
+      55.00388957030497
+    ]
+  },
+  {
+    "id": "554784901",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.49108635,
+      55.004147800000005
+    ]
+  },
+  {
+    "id": "554784943",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47448985,
+      54.9986036
+    ]
+  },
+  {
+    "id": "1333557096",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47497490646687,
+      54.997727148251755
+    ]
+  },
+  {
+    "id": "1333557097",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47415962979217,
+      54.99839673917935
+    ]
+  },
+  {
+    "id": "1510508022",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48267964555268,
+      54.99345894378012
+    ]
+  },
+  {
+    "id": "1510508023",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48239455411787,
+      54.993542631494556
+    ]
+  },
+  {
+    "id": "relation_7923541",
+    "title": "Главная проходная ТЭЦ-5",
+    "kind": "gatehouse",
+    "source": "OSM multipolygon 7923541 + Yandex facade references; height approx. 7.8 m",
+    "lonlat": [
+      73.4842602,
+      54.99891535
+    ]
+  },
+  {
+    "id": "relation_7923543",
+    "title": "Вспомогательный корпус",
+    "kind": "industrial",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.47855095,
+      54.997983
+    ]
+  },
+  {
+    "id": "dacha_6_-2",
+    "title": "Дачные дома: 1",
+    "kind": "dacha_group",
+    "source": "OSM centres and orientation; identical 1-storey house",
+    "lonlat": [
+      73.50488155,
+      54.9989118
+    ]
+  },
+  {
+    "id": "dacha_10_0",
+    "title": "Дачные дома: 40",
+    "kind": "dacha_group",
+    "source": "OSM centres and orientation; identical 1-storey house",
+    "lonlat": [
+      73.51388397800011,
+      55.001732197330824
+    ]
+  },
+  {
+    "id": "dacha_9_3",
+    "title": "Дачные дома: 29",
+    "kind": "dacha_group",
+    "source": "OSM centres and orientation; identical 1-storey house",
+    "lonlat": [
+      73.51139844101279,
+      55.005919560355856
+    ]
+  },
+  {
+    "id": "dacha_9_2",
+    "title": "Дачные дома: 3",
+    "kind": "dacha_group",
+    "source": "OSM centres and orientation; identical 1-storey house",
+    "lonlat": [
+      73.51213479921621,
+      55.005189411658726
+    ]
+  },
+  {
+    "id": "dacha_10_2",
+    "title": "Дачные дома: 28",
+    "kind": "dacha_group",
+    "source": "OSM centres and orientation; identical 1-storey house",
+    "lonlat": [
+      73.51394849773845,
+      55.004658697444235
+    ]
+  },
+  {
+    "id": "dacha_12_1",
+    "title": "Дачные дома: 39",
+    "kind": "dacha_group",
+    "source": "OSM centres and orientation; identical 1-storey house",
+    "lonlat": [
+      73.5189199978741,
+      55.003159410180714
+    ]
+  },
+  {
+    "id": "dacha_11_1",
+    "title": "Дачные дома: 14",
+    "kind": "dacha_group",
+    "source": "OSM centres and orientation; identical 1-storey house",
+    "lonlat": [
+      73.51659188490376,
+      55.00346816840237
+    ]
+  },
+  {
+    "id": "dacha_11_2",
+    "title": "Дачные дома: 42",
+    "kind": "dacha_group",
+    "source": "OSM centres and orientation; identical 1-storey house",
+    "lonlat": [
+      73.51644826745897,
+      55.00459241531383
+    ]
+  },
+  {
+    "id": "dacha_12_3",
+    "title": "Дачные дома: 24",
+    "kind": "dacha_group",
+    "source": "OSM centres and orientation; identical 1-storey house",
+    "lonlat": [
+      73.51887485,
+      55.0057826
+    ]
+  },
+  {
+    "id": "dacha_12_2",
+    "title": "Дачные дома: 45",
+    "kind": "dacha_group",
+    "source": "OSM centres and orientation; identical 1-storey house",
+    "lonlat": [
+      73.51891554049055,
+      55.004572021748196
+    ]
+  },
+  {
+    "id": "dacha_10_3",
+    "title": "Дачные дома: 31",
+    "kind": "dacha_group",
+    "source": "OSM centres and orientation; identical 1-storey house",
+    "lonlat": [
+      73.51385994115752,
+      55.0058902888164
+    ]
+  },
+  {
+    "id": "dacha_11_3",
+    "title": "Дачные дома: 30",
+    "kind": "dacha_group",
+    "source": "OSM centres and orientation; identical 1-storey house",
+    "lonlat": [
+      73.51647965046723,
+      55.005808965036636
+    ]
+  },
+  {
+    "id": "dacha_8_3",
+    "title": "Дачные дома: 6",
+    "kind": "dacha_group",
+    "source": "OSM centres and orientation; identical 1-storey house",
+    "lonlat": [
+      73.50947341445014,
+      55.00630272638402
+    ]
+  },
+  {
+    "id": "dacha_9_4",
+    "title": "Дачные дома: 13",
+    "kind": "dacha_group",
+    "source": "OSM centres and orientation; identical 1-storey house",
+    "lonlat": [
+      73.51130165398611,
+      55.007113648353744
+    ]
+  },
+  {
+    "id": "dacha_8_4",
+    "title": "Дачные дома: 2",
+    "kind": "dacha_group",
+    "source": "OSM centres and orientation; identical 1-storey house",
+    "lonlat": [
+      73.5095466932536,
+      55.00712609835435
+    ]
+  },
+  {
+    "id": "dacha_10_4",
+    "title": "Дачные дома: 16",
+    "kind": "dacha_group",
+    "source": "OSM centres and orientation; identical 1-storey house",
+    "lonlat": [
+      73.51394776208701,
+      55.00715491994127
+    ]
+  },
+  {
+    "id": "dacha_11_4",
+    "title": "Дачные дома: 10",
+    "kind": "dacha_group",
+    "source": "OSM centres and orientation; identical 1-storey house",
+    "lonlat": [
+      73.51600106231021,
+      55.0070971586637
+    ]
+  },
+  {
+    "id": "dacha_-9_1",
+    "title": "Дачные дома: 24",
+    "kind": "dacha_group",
+    "source": "OSM centres and orientation; identical 1-storey house",
+    "lonlat": [
+      73.46673201730755,
+      55.003091326697295
+    ]
+  },
+  {
+    "id": "dacha_-8_1",
+    "title": "Дачные дома: 25",
+    "kind": "dacha_group",
+    "source": "OSM centres and orientation; identical 1-storey house",
+    "lonlat": [
+      73.46841704716147,
+      55.00330112608979
+    ]
+  },
+  {
+    "id": "dacha_11_0",
+    "title": "Дачные дома: 10",
+    "kind": "dacha_group",
+    "source": "OSM centres and orientation; identical 1-storey house",
+    "lonlat": [
+      73.51576301050137,
+      55.00208287247225
+    ]
+  },
+  {
+    "id": "dacha_9_0",
+    "title": "Дачные дома: 44",
+    "kind": "dacha_group",
+    "source": "OSM centres and orientation; identical 1-storey house",
+    "lonlat": [
+      73.51137426714313,
+      55.00169818192992
+    ]
+  },
+  {
+    "id": "dacha_9_-1",
+    "title": "Дачные дома: 12",
+    "kind": "dacha_group",
+    "source": "OSM centres and orientation; identical 1-storey house",
+    "lonlat": [
+      73.51122169420584,
+      55.000700324927756
+    ]
+  },
+  {
+    "id": "dacha_8_-1",
+    "title": "Дачные дома: 16",
+    "kind": "dacha_group",
+    "source": "OSM centres and orientation; identical 1-storey house",
+    "lonlat": [
+      73.50902127778156,
+      55.0005375548879
+    ]
+  },
+  {
+    "id": "dacha_8_0",
+    "title": "Дачные дома: 32",
+    "kind": "dacha_group",
+    "source": "OSM centres and orientation; identical 1-storey house",
+    "lonlat": [
+      73.50887618465308,
+      55.001758910722295
+    ]
+  },
+  {
+    "id": "dacha_10_1",
+    "title": "Дачные дома: 16",
+    "kind": "dacha_group",
+    "source": "OSM centres and orientation; identical 1-storey house",
+    "lonlat": [
+      73.51362439836741,
+      55.00287535325215
+    ]
+  },
+  {
+    "id": "dacha_9_1",
+    "title": "Дачные дома: 7",
+    "kind": "dacha_group",
+    "source": "OSM centres and orientation; identical 1-storey house",
+    "lonlat": [
+      73.5122156238049,
+      55.002736483146585
+    ]
+  },
+  {
+    "id": "dacha_7_0",
+    "title": "Дачные дома: 2",
+    "kind": "dacha_group",
+    "source": "OSM centres and orientation; identical 1-storey house",
+    "lonlat": [
+      73.50725443750844,
+      55.00174146111618
+    ]
+  },
+  {
+    "id": "dacha_8_1",
+    "title": "Дачные дома: 26",
+    "kind": "dacha_group",
+    "source": "OSM centres and orientation; identical 1-storey house",
+    "lonlat": [
+      73.50893817363425,
+      55.00310423107072
+    ]
+  },
+  {
+    "id": "dacha_8_2",
+    "title": "Дачные дома: 3",
+    "kind": "dacha_group",
+    "source": "OSM centres and orientation; identical 1-storey house",
+    "lonlat": [
+      73.5097034750407,
+      55.00412382924448
+    ]
+  },
+  {
+    "id": "dacha_7_1",
+    "title": "Дачные дома: 7",
+    "kind": "dacha_group",
+    "source": "OSM centres and orientation; identical 1-storey house",
+    "lonlat": [
+      73.50698894964768,
+      55.0029342542942
+    ]
+  },
+  {
+    "id": "dacha_12_0",
+    "title": "Дачные дома: 1",
+    "kind": "dacha_group",
+    "source": "OSM centres and orientation; identical 1-storey house",
+    "lonlat": [
+      73.52014645,
+      55.00239105
+    ]
+  },
+  {
+    "id": "chimney_w",
+    "title": "Дымовая труба",
+    "kind": "chimney",
+    "source": "OSM point; east 277.5 m from on-site reportage; west 180 m approximate",
+    "lonlat": [
+      73.4861358,
+      55.0016507
+    ]
+  },
+  {
+    "id": "chimney_e",
+    "title": "Дымовая труба",
+    "kind": "chimney",
+    "source": "OSM point; east 277.5 m from on-site reportage; west 180 m approximate",
+    "lonlat": [
+      73.4891636,
+      55.0020963
+    ]
+  },
+  {
+    "id": "east_basin",
+    "title": "Низкий круглый бассейн",
+    "kind": "basin",
+    "source": "Satellite 2025-05-16; height illustrative",
+    "lonlat": [
+      73.49572060816826,
+      54.99993737346348
+    ]
+  },
+  {
+    "id": "coal_yard",
+    "title": "Угольный склад и галерея",
+    "kind": "coal_yard",
+    "source": "Approximate trace of World Imagery 2025-05-16",
+    "lonlat": [
+      73.48675425373956,
+      55.00371748911204
+    ]
+  },
+  {
+    "id": "switchyard",
+    "title": "ОРУ перед главным корпусом",
+    "kind": "switchyard",
+    "source": "OSM substation boundary + approximate equipment",
+    "lonlat": [
+      73.48832757743436,
+      54.999031078170624
+    ]
+  },
+  {
+    "id": "circulation_pipes",
+    "title": "Циркуляционные трубопроводы",
+    "kind": "pipe_network",
+    "source": "Illustrative corridors positioned between existing cooling towers and main hall",
+    "lonlat": [
+      73.48632511582223,
+      54.99942529604434
+    ]
+  },
+  {
+    "id": "ground_-6_-1",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.46788895608424,
+      55.00085821327901
+    ]
+  },
+  {
+    "id": "ground_-6_0",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.46682923795588,
+      55.00212478853975
+    ]
+  },
+  {
+    "id": "ground_-6_1",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.46671127013383,
+      55.00352048522129
+    ]
+  },
+  {
+    "id": "ground_-5_-2",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.47090642018584,
+      54.99765546629398
+    ]
+  },
+  {
+    "id": "ground_-5_-1",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.46998028624088,
+      54.99987521146024
+    ]
+  },
+  {
+    "id": "ground_-5_0",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.46998028624088,
+      55.00212478853975
+    ]
+  },
+  {
+    "id": "ground_-5_1",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.46998028624088,
+      55.00373801255165
+    ]
+  },
+  {
+    "id": "ground_-4_-4",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.4749836024158,
+      54.99332793076919
+    ]
+  },
+  {
+    "id": "ground_-4_-3",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.47392388428744,
+      54.99537605730122
+    ]
+  },
+  {
+    "id": "ground_-4_-2",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.47389577818736,
+      54.99762563438073
+    ]
+  },
+  {
+    "id": "ground_-4_-1",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.47389577818736,
+      54.99987521146024
+    ]
+  },
+  {
+    "id": "ground_-4_0",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.47389577818736,
+      55.00212478853975
+    ]
+  },
+  {
+    "id": "ground_-4_1",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.47389577818736,
+      55.00395553988201
+    ]
+  },
+  {
+    "id": "ground_-3_-5",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.47787130108524,
+      54.99170084584098
+    ]
+  },
+  {
+    "id": "ground_-3_-4",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.47781127013383,
+      54.99312648022172
+    ]
+  },
+  {
+    "id": "ground_-3_-3",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.47781127013383,
+      54.99537605730122
+    ]
+  },
+  {
+    "id": "ground_-3_-2",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.47781127013383,
+      54.99762563438073
+    ]
+  },
+  {
+    "id": "ground_-3_-1",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.47781127013383,
+      54.99987521146024
+    ]
+  },
+  {
+    "id": "ground_-3_0",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.47781127013383,
+      55.00212478853975
+    ]
+  },
+  {
+    "id": "ground_-3_1",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.47781127013383,
+      55.004163239345104
+    ]
+  },
+  {
+    "id": "ground_-2_-4",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.4817267620803,
+      54.99315538870468
+    ]
+  },
+  {
+    "id": "ground_-2_-3",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.4817267620803,
+      54.99537605730122
+    ]
+  },
+  {
+    "id": "ground_-2_-2",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.4817267620803,
+      54.99762563438073
+    ]
+  },
+  {
+    "id": "ground_-2_-1",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.4817267620803,
+      54.99987521146024
+    ]
+  },
+  {
+    "id": "ground_-2_0",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.4817267620803,
+      55.00212478853975
+    ]
+  },
+  {
+    "id": "ground_-2_1",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.4817267620803,
+      55.004359013942434
+    ]
+  },
+  {
+    "id": "ground_-1_-4",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.48564225402677,
+      54.99359152539517
+    ]
+  },
+  {
+    "id": "ground_-1_-3",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.48564225402677,
+      54.99537605730122
+    ]
+  },
+  {
+    "id": "ground_-1_-2",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.48564225402677,
+      54.99762563438073
+    ]
+  },
+  {
+    "id": "ground_-1_-1",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.48564225402677,
+      54.99987521146024
+    ]
+  },
+  {
+    "id": "ground_-1_0",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.48564225402677,
+      55.00212478853975
+    ]
+  },
+  {
+    "id": "ground_-1_1",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.48564225402677,
+      55.00437436561926
+    ]
+  },
+  {
+    "id": "ground_-1_2",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.48579577079506,
+      55.00567957707951
+    ]
+  },
+  {
+    "id": "ground_0_-4",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.48859805171841,
+      54.99402766208566
+    ]
+  },
+  {
+    "id": "ground_0_-3",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.48955774597323,
+      54.99537605730122
+    ]
+  },
+  {
+    "id": "ground_0_-2",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.48955774597323,
+      54.99762563438073
+    ]
+  },
+  {
+    "id": "ground_0_-1",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.48955774597323,
+      54.99987521146024
+    ]
+  },
+  {
+    "id": "ground_0_0",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.48955774597323,
+      55.00212478853975
+    ]
+  },
+  {
+    "id": "ground_0_1",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.48955774597323,
+      55.00437436561926
+    ]
+  },
+  {
+    "id": "ground_0_2",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.48955774597323,
+      55.005884686228676
+    ]
+  },
+  {
+    "id": "ground_1_-3",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.4934732379197,
+      54.99559249024283
+    ]
+  },
+  {
+    "id": "ground_1_-2",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.4934732379197,
+      54.99762563438073
+    ]
+  },
+  {
+    "id": "ground_1_-1",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.4934732379197,
+      54.99987521146024
+    ]
+  },
+  {
+    "id": "ground_1_0",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.4934732379197,
+      55.00212478853975
+    ]
+  },
+  {
+    "id": "ground_1_1",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.4934732379197,
+      55.00437436561926
+    ]
+  },
+  {
+    "id": "ground_1_2",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.4934732379197,
+      55.00610457798654
+    ]
+  },
+  {
+    "id": "ground_2_-3",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.4973450784262,
+      54.99603400660887
+    ]
+  },
+  {
+    "id": "ground_2_-2",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.49738872986617,
+      54.99762563438073
+    ]
+  },
+  {
+    "id": "ground_2_-1",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.49738872986617,
+      54.99987521146024
+    ]
+  },
+  {
+    "id": "ground_2_0",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.49738872986617,
+      55.00212478853975
+    ]
+  },
+  {
+    "id": "ground_2_1",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.49738872986617,
+      55.00437436561926
+    ]
+  },
+  {
+    "id": "ground_2_2",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.49738872986617,
+      55.0063244697444
+    ]
+  },
+  {
+    "id": "ground_3_-2",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.50130422181265,
+      54.99763633147448
+    ]
+  },
+  {
+    "id": "ground_3_-1",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.50130422181265,
+      54.99987521146024
+    ]
+  },
+  {
+    "id": "ground_3_0",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.50130422181265,
+      55.00212478853975
+    ]
+  },
+  {
+    "id": "ground_3_1",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.50130422181265,
+      55.00437436561926
+    ]
+  },
+  {
+    "id": "ground_3_2",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.50130422181265,
+      55.006544361502264
+    ]
+  },
+  {
+    "id": "ground_4_-2",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.50521971375912,
+      54.99811576982266
+    ]
+  },
+  {
+    "id": "ground_4_-1",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.50521971375912,
+      54.99987521146024
+    ]
+  },
+  {
+    "id": "ground_4_0",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.50521971375912,
+      55.00212478853975
+    ]
+  },
+  {
+    "id": "ground_4_1",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.50521971375912,
+      55.00437436561926
+    ]
+  },
+  {
+    "id": "ground_4_2",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.50521971375912,
+      55.006574577079505
+    ]
+  },
+  {
+    "id": "ground_5_-2",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.50781211815166,
+      54.998595050582345
+    ]
+  },
+  {
+    "id": "ground_5_-1",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.50913520570559,
+      54.99987521146024
+    ]
+  },
+  {
+    "id": "ground_5_0",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.50913520570559,
+      55.00212478853975
+    ]
+  },
+  {
+    "id": "ground_5_1",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.50913520570559,
+      55.00437436561926
+    ]
+  },
+  {
+    "id": "ground_5_2",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.50913520570559,
+      55.006574577079505
+    ]
+  },
+  {
+    "id": "ground_6_-1",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.51305069765205,
+      55.000199119881785
+    ]
+  },
+  {
+    "id": "ground_6_0",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.51305069765205,
+      55.00212478853975
+    ]
+  },
+  {
+    "id": "ground_6_1",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.51305069765205,
+      55.00437436561926
+    ]
+  },
+  {
+    "id": "ground_6_2",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.51305069765205,
+      55.006574577079505
+    ]
+  },
+  {
+    "id": "ground_7_-1",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.51632209921533,
+      55.00067840064147
+    ]
+  },
+  {
+    "id": "ground_7_0",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.51696618959852,
+      55.00212478853975
+    ]
+  },
+  {
+    "id": "ground_7_1",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.51696618959852,
+      55.00437436561926
+    ]
+  },
+  {
+    "id": "ground_7_2",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.51696618959852,
+      55.006574577079505
+    ]
+  },
+  {
+    "id": "ground_8_0",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.51958696778588,
+      55.0022824699409
+    ]
+  },
+  {
+    "id": "ground_8_1",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.51958696778588,
+      55.00437436561926
+    ]
+  },
+  {
+    "id": "ground_8_2",
+    "title": "Рельеф, дороги, вода и лес",
+    "kind": "ground",
+    "source": "OSM + illustrative surfaces; no satellite pixels embedded",
+    "lonlat": [
+      73.51958696778588,
+      55.006574577079505
+    ]
+  },
+  {
+    "id": "trees_front",
+    "title": "Зелень перед главным корпусом",
+    "kind": "trees",
+    "source": "Approximate planting from supplied ground photograph",
+    "lonlat": [
+      73.4882225632195,
+      54.99867105382696
+    ]
+  },
+  {
+    "id": "lighting",
+    "title": "Фонари вдоль проездов",
+    "kind": "lighting",
+    "source": "OSM / approximate photographic geometry",
+    "lonlat": [
+      73.48720845080535,
+      54.99937337580535
+    ]
+  }
+]

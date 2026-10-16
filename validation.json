@@ -1,0 +1,149 @@
+{
+  "passed": true,
+  "tiles": 260,
+  "lods": {
+    "0": 1,
+    "1": 4,
+    "2": 15,
+    "3": 50,
+    "4": 95,
+    "5": 95
+  },
+  "all_objects_present_once_at_each_lod": 307,
+  "total_triangles_across_lods": 688376,
+  "unique_embedded_images_checked": 106,
+  "max_tile_bytes": 2670224,
+  "contentless_nodes": 0,
+  "camera_selection_checks": 176,
+  "partial_loading_fallback_checks": 84,
+  "representative_camera_cuts": [
+    {
+      "camera_distance_m": 100000,
+      "maximumScreenSpaceError": 16,
+      "selected_tiles": 1,
+      "selected_lods": {
+        "0": 1
+      },
+      "selected_bytes": 2197064,
+      "selected_triangles": 33360
+    },
+    {
+      "camera_distance_m": 50000,
+      "maximumScreenSpaceError": 16,
+      "selected_tiles": 1,
+      "selected_lods": {
+        "0": 1
+      },
+      "selected_bytes": 2197064,
+      "selected_triangles": 33360
+    },
+    {
+      "camera_distance_m": 25000,
+      "maximumScreenSpaceError": 16,
+      "selected_tiles": 1,
+      "selected_lods": {
+        "0": 1
+      },
+      "selected_bytes": 2197064,
+      "selected_triangles": 33360
+    },
+    {
+      "camera_distance_m": 15000,
+      "maximumScreenSpaceError": 16,
+      "selected_tiles": 1,
+      "selected_lods": {
+        "0": 1
+      },
+      "selected_bytes": 2197064,
+      "selected_triangles": 33360
+    },
+    {
+      "camera_distance_m": 10000,
+      "maximumScreenSpaceError": 16,
+      "selected_tiles": 4,
+      "selected_lods": {
+        "1": 4
+      },
+      "selected_bytes": 2495808,
+      "selected_triangles": 36918
+    },
+    {
+      "camera_distance_m": 5000,
+      "maximumScreenSpaceError": 16,
+      "selected_tiles": 4,
+      "selected_lods": {
+        "1": 4
+      },
+      "selected_bytes": 2495808,
+      "selected_triangles": 36918
+    },
+    {
+      "camera_distance_m": 2500,
+      "maximumScreenSpaceError": 16,
+      "selected_tiles": 15,
+      "selected_lods": {
+        "2": 15
+      },
+      "selected_bytes": 5609200,
+      "selected_triangles": 58423
+    },
+    {
+      "camera_distance_m": 1200,
+      "maximumScreenSpaceError": 16,
+      "selected_tiles": 38,
+      "selected_lods": {
+        "2": 4,
+        "3": 34
+      },
+      "selected_bytes": 8903960,
+      "selected_triangles": 85426
+    },
+    {
+      "camera_distance_m": 600,
+      "maximumScreenSpaceError": 16,
+      "selected_tiles": 55,
+      "selected_lods": {
+        "3": 41,
+        "4": 14
+      },
+      "selected_bytes": 13841824,
+      "selected_triangles": 115098
+    },
+    {
+      "camera_distance_m": 250,
+      "maximumScreenSpaceError": 16,
+      "selected_tiles": 71,
+      "selected_lods": {
+        "3": 32,
+        "4": 38,
+        "5": 1
+      },
+      "selected_bytes": 18837368,
+      "selected_triangles": 142363
+    },
+    {
+      "camera_distance_m": 80,
+      "maximumScreenSpaceError": 16,
+      "selected_tiles": 74,
+      "selected_lods": {
+        "3": 28,
+        "4": 41,
+        "5": 5
+      },
+      "selected_bytes": 21393696,
+      "selected_triangles": 163203
+    }
+  ],
+  "tests": [
+    "B3DM and GLB headers, chunk alignment, accessors and buffers",
+    "finite positions, unit normals and tangents, index bounds",
+    "decoded embedded textures",
+    "Y-up to ENU and ECEF position containment",
+    "parent and child bounds, strictly decreasing geometric errors",
+    "complete disjoint child object-ID partitions, six full LODs",
+    "renderable coarse fallback at every node, zero-error leaves",
+    "176 mixed-LOD camera cuts without holes or duplicate objects",
+    "84 partial-loading structural fallback cuts"
+  ],
+  "scope": "Offline geometry and traversal validation; FlexGIS runtime zoom/pan test is still required."
+}

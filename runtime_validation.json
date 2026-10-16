@@ -1,0 +1,201 @@
+{
+  "renderer": "CesiumJS 1.121",
+  "browser": "131.0.6778.0",
+  "softwareWebGL": true,
+  "scope": "Actual CesiumJS 1.121 B3DM loading, software WebGL rendering and camera traversal; not a FlexGIS integration test or performance benchmark.",
+  "settings": {
+    "maximumScreenSpaceError": 16,
+    "skipLevelOfDetail": false
+  },
+  "results": [
+    {
+      "selectedTiles": 1,
+      "selectedLods": {
+        "0": 1
+      },
+      "representedObjects": 307,
+      "duplicateIds": [],
+      "tilesLoaded": true,
+      "pendingRequests": 0,
+      "processing": 0,
+      "contentReady": 5,
+      "totalMemory": 19975723,
+      "range_m": 15000,
+      "heading_deg": 0
+    },
+    {
+      "selectedTiles": 4,
+      "selectedLods": {
+        "1": 4
+      },
+      "representedObjects": 307,
+      "duplicateIds": [],
+      "tilesLoaded": true,
+      "pendingRequests": 0,
+      "processing": 0,
+      "contentReady": 5,
+      "totalMemory": 19975723,
+      "range_m": 7000,
+      "heading_deg": 0
+    },
+    {
+      "selectedTiles": 15,
+      "selectedLods": {
+        "2": 15
+      },
+      "representedObjects": 307,
+      "duplicateIds": [],
+      "tilesLoaded": true,
+      "pendingRequests": 0,
+      "processing": 0,
+      "contentReady": 20,
+      "totalMemory": 94789436,
+      "range_m": 3500,
+      "heading_deg": 0
+    },
+    {
+      "selectedTiles": 37,
+      "selectedLods": {
+        "2": 1,
+        "3": 36
+      },
+      "representedObjects": 247,
+      "duplicateIds": [],
+      "tilesLoaded": true,
+      "pendingRequests": 0,
+      "processing": 0,
+      "contentReady": 62,
+      "totalMemory": 228530679,
+      "range_m": 1800,
+      "heading_deg": 0
+    },
+    {
+      "selectedTiles": 32,
+      "selectedLods": {
+        "3": 7,
+        "4": 25
+      },
+      "representedObjects": 124,
+      "duplicateIds": [],
+      "tilesLoaded": true,
+      "pendingRequests": 0,
+      "processing": 0,
+      "contentReady": 75,
+      "totalMemory": 303663289,
+      "range_m": 800,
+      "heading_deg": 0
+    },
+    {
+      "selectedTiles": 19,
+      "selectedLods": {
+        "4": 14,
+        "5": 5
+      },
+      "representedObjects": 62,
+      "duplicateIds": [],
+      "tilesLoaded": true,
+      "pendingRequests": 0,
+      "processing": 0,
+      "contentReady": 71,
+      "totalMemory": 308853001,
+      "range_m": 350,
+      "heading_deg": 0
+    },
+    {
+      "selectedTiles": 14,
+      "selectedLods": {
+        "4": 6,
+        "5": 8
+      },
+      "representedObjects": 42,
+      "duplicateIds": [],
+      "tilesLoaded": true,
+      "pendingRequests": 0,
+      "processing": 0,
+      "contentReady": 73,
+      "totalMemory": 322147939,
+      "range_m": 350,
+      "heading_deg": 100
+    },
+    {
+      "selectedTiles": 37,
+      "selectedLods": {
+        "2": 1,
+        "3": 36
+      },
+      "representedObjects": 260,
+      "duplicateIds": [],
+      "tilesLoaded": true,
+      "pendingRequests": 0,
+      "processing": 0,
+      "contentReady": 64,
+      "totalMemory": 265616815,
+      "range_m": 1800,
+      "heading_deg": 180
+    },
+    {
+      "selectedTiles": 4,
+      "selectedLods": {
+        "1": 4
+      },
+      "representedObjects": 307,
+      "duplicateIds": [],
+      "tilesLoaded": true,
+      "pendingRequests": 0,
+      "processing": 0,
+      "contentReady": 64,
+      "totalMemory": 265616815,
+      "range_m": 7000,
+      "heading_deg": 270
+    },
+    {
+      "selectedTiles": 1,
+      "selectedLods": {
+        "0": 1
+      },
+      "representedObjects": 307,
+      "duplicateIds": [],
+      "tilesLoaded": true,
+      "pendingRequests": 0,
+      "processing": 0,
+      "contentReady": 64,
+      "totalMemory": 265616815,
+      "range_m": 15000,
+      "heading_deg": 0
+    }
+  ],
+  "state": {
+    "ready": true,
+    "tileFailures": [],
+    "renderErrors": [],
+    "samples": [],
+    "frames": 183,
+    "zeroSelectedAfterFirst": 0,
+    "overlapFrames": 0,
+    "everSelected": true,
+    "watch": true
+  },
+  "consoleErrors": [],
+  "requestFailures": [],
+  "warnings": [],
+  "passed": true,
+  "tileset_sha256": "be31e63b2d4e97675193bd1cbaab87fbf730f19ead1021f9f664ad15ff939ee6",
+  "summary": {
+    "view_positions": 10,
+    "checked_rendered_frames": 183,
+    "selected_lods_observed": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "min_selected_tiles": 1,
+    "max_selected_tiles": 37,
+    "overview_object_count": 307,
+    "zero_frames_after_initial_load": 0,
+    "overlapping_object_id_frames": 0,
+    "all_views_settled": true
+  }
+}
